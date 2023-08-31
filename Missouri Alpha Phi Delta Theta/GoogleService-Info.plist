@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Please allow PDT App to use the camera!</string>
+	<key>CLIENT_ID</key>
+	<string>415750297323-40n14p8l90arasrp9nqoot1j3d7f8jvj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.415750297323-40n14p8l90arasrp9nqoot1j3d7f8jvj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBsafAISFUXuzg9Z5ELubn6e5p_hONOgM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>415750297323</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MO-ALPHA-PDT.Missouri-Alpha-Phi-Delta-Theta</string>
+	<key>PROJECT_ID</key>
+	<string>mo-alpha-pdt-833bc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mo-alpha-pdt-833bc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:415750297323:ios:0c64653009d351ed0f10ae</string>
+</dict>
+</plist>
